@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Karan Sagale
 
-🚀 SDET | Automation QA Engineer | Selenium (Java) | API Testing | 7+ Years Experience  
+🚀 SDET | Automation QA Engineer | Selenium (Java) | API Testing | CI/CD | Test Automation Framework | 7 Years Experience  
 💊 Domain: Pharmaceutical CRM & CLM Applications  
 
 ---
@@ -40,7 +40,7 @@ Functional Testing | Regression Testing | API Testing | Cross Browser Testing | 
 - Designed reusable utilities and test base classes  
 - Supports cross-browser testing and parallel execution  
 
-🔗 Repository: [View Repository](https://github.com/karan-sagale/Test-Automation-Framework)  
+🔗 [View Repository](https://github.com/karan-sagale/Test-Automation-Framework)  
 
 ---
 
@@ -50,7 +50,7 @@ Functional Testing | Regression Testing | API Testing | Cross Browser Testing | 
 - Handled dynamic elements using WebDriverWait  
 - Validated search results and filters  
 
-🔗 Repository: [View Repository](https://github.com/karan-sagale/YatraAutomation_Solution)
+🔗 [View Repository](https://github.com/karan-sagale/YatraAutomation_Solution)
 
 ---
 
@@ -60,7 +60,7 @@ Functional Testing | Regression Testing | API Testing | Cross Browser Testing | 
 - Validated results based on filters (AC, sleeper, etc.)  
 - Designed reusable test structure using TestNG  
 
-🔗 Repository: [View Repository](https://github.com/karan-sagale/RedBusAutomation_Solution)
+🔗 [View Repository](https://github.com/karan-sagale/RedBusAutomation_Solution)
 
 ---
 
@@ -69,7 +69,7 @@ Functional Testing | Regression Testing | API Testing | Cross Browser Testing | 
 - Status code, response body, and header validation  
 - Collection runner execution with test scripts  
 
-🔗 Repository: [View Repository](https://github.com/karan-sagale/Postman-Library-API-Practice)
+🔗 [View Repository](https://github.com/karan-sagale/Postman-Library-API-Practice)
 
 ---
 
@@ -78,7 +78,7 @@ Functional Testing | Regression Testing | API Testing | Cross Browser Testing | 
 - CRUD operations and search functionality  
 - Implemented using OOP concepts and Collections  
 
-🔗 Repository: [View Repository](https://github.com/karan-sagale/StudentManagementSystem)
+🔗 [View Repository](https://github.com/karan-sagale/StudentManagementSystem)
 
 ---
 
@@ -87,6 +87,13 @@ Functional Testing | Regression Testing | API Testing | Cross Browser Testing | 
 - Strong domain expertise in Pharma CRM & CLM  
 - Experience with API and backend validation  
 - Improved test coverage and reduced production defects  
+
+---
+
+## 🧠 What I Bring
+- Strong automation mindset  
+- Experience in building reusable frameworks  
+- Ability to validate end-to-end systems
 
 ---
 
