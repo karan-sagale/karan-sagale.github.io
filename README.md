@@ -11,6 +11,13 @@ Currently focused on transitioning into SDET roles, building scalable automation
 
 ---
 
+## 🧠 What I Bring
+- Strong automation mindset  
+- Experience in building reusable frameworks  
+- Ability to validate end-to-end systems
+
+---
+
 ## 🛠️ Tech Stack
 
 **Automation:**  
@@ -38,9 +45,12 @@ Functional Testing | Regression Testing | API Testing | Cross Browser Testing | 
 - Integrated TestNG for test execution and reporting  
 - Used Maven for build management and dependency handling  
 - Designed reusable utilities and test base classes  
-- Supports cross-browser testing and parallel execution  
+- Supports cross-browser testing and parallel execution
+- Built scalable automation framework improving reusability and execution efficiency
 
-🔗 [View Repository](https://github.com/karan-sagale/Test-Automation-Framework)  
+**Tech:** Selenium | Java | TestNG | Maven  
+
+👉🚀 [View Project](https://github.com/karan-sagale/Test-Automation-Framework)  
 
 ---
 
@@ -48,9 +58,12 @@ Functional Testing | Regression Testing | API Testing | Cross Browser Testing | 
 - Automated flight search functionality (source, destination, date selection)  
 - Implemented Page Object Model (POM)  
 - Handled dynamic elements using WebDriverWait  
-- Validated search results and filters  
+- Validated search results and filters
+- Improved test reliability by implementing dynamic waits and robust locators
 
-🔗 [View Repository](https://github.com/karan-sagale/YatraAutomation_Solution)
+**Tech:** Selenium | Java | TestNG | Maven     
+
+👉🚀 [View Project](https://github.com/karan-sagale/YatraAutomation_Solution)
 
 ---
 
@@ -58,9 +71,12 @@ Functional Testing | Regression Testing | API Testing | Cross Browser Testing | 
 - Automated bus search and filtering workflows  
 - Implemented dynamic element handling and wait strategies  
 - Validated results based on filters (AC, sleeper, etc.)  
-- Designed reusable test structure using TestNG  
+- Designed reusable test structure using TestNG
+- Enhanced test stability through efficient wait strategies and reusable components
 
-🔗 [View Repository](https://github.com/karan-sagale/RedBusAutomation_Solution)
+**Tech:** Selenium | Java | TestNG | Maven     
+
+👉🚀 [View Project](https://github.com/karan-sagale/RedBusAutomation_Solution)
 
 ---
 
@@ -69,7 +85,7 @@ Functional Testing | Regression Testing | API Testing | Cross Browser Testing | 
 - Status code, response body, and header validation  
 - Collection runner execution with test scripts  
 
-🔗 [View Repository](https://github.com/karan-sagale/Postman-Library-API-Practice)
+👉🚀 [View Project](https://github.com/karan-sagale/Postman-Library-API-Practice)
 
 ---
 
@@ -78,7 +94,7 @@ Functional Testing | Regression Testing | API Testing | Cross Browser Testing | 
 - CRUD operations and search functionality  
 - Implemented using OOP concepts and Collections  
 
-🔗 [View Repository](https://github.com/karan-sagale/StudentManagementSystem)
+👉🚀 [View Project](https://github.com/karan-sagale/StudentManagementSystem)
 
 ---
 
@@ -87,13 +103,6 @@ Functional Testing | Regression Testing | API Testing | Cross Browser Testing | 
 - Strong domain expertise in Pharma CRM & CLM  
 - Experience with API and backend validation  
 - Improved test coverage and reduced production defects  
-
----
-
-## 🧠 What I Bring
-- Strong automation mindset  
-- Experience in building reusable frameworks  
-- Ability to validate end-to-end systems
 
 ---
 
