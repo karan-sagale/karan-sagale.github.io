@@ -61,7 +61,7 @@ Functional Testing | Regression Testing | API Testing | Cross Browser Testing | 
 - Validated search results and filters
 - Improved test reliability by implementing dynamic waits and robust locators
 
-**Tech:** Selenium | Java | TestNG | Maven     
+**Tech:** Selenium | Java 
 
 👉🚀 [View Project](https://github.com/karan-sagale/YatraAutomation_Solution)
 
@@ -74,7 +74,7 @@ Functional Testing | Regression Testing | API Testing | Cross Browser Testing | 
 - Designed reusable test structure using TestNG
 - Enhanced test stability through efficient wait strategies and reusable components
 
-**Tech:** Selenium | Java | TestNG | Maven     
+**Tech:** Selenium | Java 
 
 👉🚀 [View Project](https://github.com/karan-sagale/RedBusAutomation_Solution)
 
